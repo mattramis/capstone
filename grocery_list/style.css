@@ -1,0 +1,25 @@
+h1 {
+  color: coral;
+  border: solid;
+  max-width: 460px;
+  background-color: whitesmoke;
+}
+h2 {
+  border: solid;
+  background-color: bisque;
+  max-width: 100px;
+}
+h3 {
+  border: solid;
+  background-color: bisque;
+  max-width: 100px;
+}
+div {
+  display: inline-block;
+  background-color: aqua;
+}
+img {
+  padding-left: 100px;
+  height: 100px;
+  width: 100px;
+}

@@ -1,0 +1,13 @@
+header {
+  font-size: larger;
+  font-weight: bolder;
+  font-family: fantasy;
+}
+section {
+  position: relative;
+  text-align: center;
+  top: 100px;
+}
+span {
+  border: solid;
+}

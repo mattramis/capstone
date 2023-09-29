@@ -1,0 +1,67 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  text-align: center;
+}
+
+.party {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.party h2 {
+  margin: 0;
+}
+
+.party p {
+  margin: 5px 0;
+}
+
+.party button {
+  margin-top: 10px;
+}
+
+.party-details {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.party-details h2 {
+  margin: 0;
+}
+
+.party-details p {
+  margin: 5px 0;
+}
+
+.party-details ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+.party-details li {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 5px;
+}
+
+.close-button {
+  background-color: #ccc;
+  color: #fff;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+.close-button:hover {
+  background-color: #999;
+}
+
+/* Add more styles as needed */

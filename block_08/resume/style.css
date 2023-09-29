@@ -1,0 +1,10 @@
+H1{font-weight: bolder; color: fuchsia;}
+p{
+    font-size: larger; font-weight: bold; font-style: underline;
+}
+body{
+   background-image: url(pink.jpg);
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+}

@@ -1,0 +1,49 @@
+main > h1 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 100;
+    font-size: 2rem;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .project {
+    font-family: 'Raleway', sans-serif;
+    font-size: 1em;
+    width: calc(100% - 6em);
+    background: #ffebcc;
+    background: #fafafa;
+    color: #222;
+    box-shadow: 0 3px 6px -2px #ccc;
+    margin: 2em auto;
+    padding: 1em;
+  }
+  
+  .project-name {
+    font-weight: 900;
+    font-size: 2em;
+    margin: 0 0 1em;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .project p {
+    font-size: 1.3em;
+    font-weight: 100;
+    margin: 0 0 1em;
+  }
+  
+  .project p:last-child {
+    margin-bottom: 0;
+  }
+  
+  section:nth-of-type(odd) img {
+    width: 240px;
+    float: right;
+    margin-left: 1em;
+    margin-bottom: 1em;
+  }
+  
+  section:nth-of-type(even) img {
+    width: 240px;
+    margin-right: 1em;
+    margin-bottom: 1em;
+    float: left;
+  }

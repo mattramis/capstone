@@ -1,0 +1,16 @@
+.b {
+  font-size: 14px;
+  background-color: black;
+  color: white;
+  text-align: center;
+  max-width: fit-content;
+  margin-inline: 500px;
+  position: absolute;
+}
+body {
+  background-image: url(https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+}

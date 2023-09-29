@@ -1,0 +1,28 @@
+h1, h2, section {
+    font-family: 'Raleway', sans-serif;
+  }
+  
+  h1 {
+    font-weight: 300;
+    font-size: 2rem;
+  }
+  
+  section > img {
+    height: 128px;
+  }
+  
+  section:nth-of-type(odd) > img {
+    float: left;
+    margin: 0 24px 24px 0;
+  }
+  
+  
+  section:nth-of-type(even) > img {
+    float: right;
+    margin: 0 0 24px 24px;
+  }
+  
+  section {
+    border-top: 1px solid #bbb;
+  }
+  

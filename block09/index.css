@@ -1,0 +1,22 @@
+h1, h2 {
+    font-weight: 300;
+    font-family: 'Raleway', sans-serif;
+  }
+  
+  h1 {
+    font-size: 2em;
+  }a
+  
+  h2 {
+    font-size: 1.5em;
+  }
+  
+  .quote {
+    font-family: 'Satisfy', cursive;
+    font-weight: 100;
+    color: white;
+    text-shadow: 1px 1px 2px black;
+    font-size: 3em;
+    text-align: center;
+    margin-top: 2em;
+  }

@@ -1,0 +1,18 @@
+.flexbox{
+    height: 100px;
+    width: 100px;
+    margin-bottom: 10%;
+}
+#flex{
+    display: flex;
+    flex-wrap: wrap;
+}
+#one{
+    background-color: blue;
+}
+#two{
+    background-color: green;
+}
+#three{
+    background-color: red;
+}
